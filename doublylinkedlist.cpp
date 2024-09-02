@@ -21,7 +21,7 @@ public:
       delete next;
       next = NULL;
     }
-    cout << "memory is free for node with data " << val << endl;
+    cout << "memory is freee for node with data " << val << endl;
   }
 };
 
